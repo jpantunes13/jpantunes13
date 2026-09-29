@@ -1,8 +1,8 @@
-<img align="right" src="https://github.com/JoaoPauloAntunes/JoaoPauloAntunes/blob/master/images/illustration.png" width="300"/>
+<img align="right" src="images/illustration.png" width="300"/>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm João Paulo
 
-![](https://komarev.com/ghpvc/?username=JoaoPauloAntunes&color=green)
+![](https://komarev.com/ghpvc/?username=jpantunes13&color=green)
 
 **Full Stack Developer who solves the whole problem** — for 5+ years turning field data into software for precision agriculture at **Zait** (formerly Smart Agri, [@smartagribr](https://github.com/smartagribr)).
 
@@ -21,8 +21,8 @@
 ### ✨ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/JoaoPauloAntunes">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true"/>
+  <a href="https://github.com/jpantunes13">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpantunes13&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true"/>
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)
+  ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpantunes13&layout=compact&langs_count=8&theme=dark)
 
 </div>
 
@@ -76,4 +76,4 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/JoaoPauloAntunes/JoaoPauloAntunes/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake animation](https://raw.githubusercontent.com/jpantunes13/jpantunes13/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
